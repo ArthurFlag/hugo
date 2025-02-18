@@ -1,0 +1,9 @@
+[submodule "mysite/themes/ananke"]
+	path = mysite/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "mysite/themes/docdock"]
+	path = mysite/themes/docdock
+	url = https://github.com/vjeantet/hugo-theme-docdock.git
+[submodule "mysite/themes/hugo-theme-relearn"]
+	path = mysite/themes/hugo-theme-relearn
+	url = https://github.com/McShelby/hugo-theme-relearn.git
